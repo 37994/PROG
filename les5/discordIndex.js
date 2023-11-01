@@ -27,4 +27,4 @@ function onMessage(message){
 client.once(Events.ClientReady, ClientIsReady);
 client.on(Events.MessageCreate, onMessage)
 
-client.login("MTE1OTc4OTk0MDQxNTEzOTg4MA.GqAJSk.6nOjfY3_LJBnLtgi7cbAdxKUzrweBTj8XCB46U");
+client.login("token");
